@@ -1,15 +1,17 @@
+<img align = "center" width = 800px src = "https://user-images.githubusercontent.com/35527492/134815365-77f1950d-0fab-4830-a20f-6466ef01ee59.png">
+
 <h1 align="center">Hi 👋, I'm Abhay Arora</h1>
-<h3 align="center">A hustler wanting to explore more.</h3>
+<h3 align="center">A hustler exploring more and more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spabhay" alt="spabhay" /></a> </p>
 
-- 🌱 I’m currently learning **Competitive Programming in C++**
+- 🌱 I’m currently learning **Competitive Programming in C++**!
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SPAbhay?tab=repositories](https://github.com/SPAbhay?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abhay-arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhay-arora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhay arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay arora" height="30" width="40" /></a>
 <a href="https://instagram.com/_a_for_abhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_for_abhay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/theabhay27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theabhay27" height="30" width="40" /></a>
